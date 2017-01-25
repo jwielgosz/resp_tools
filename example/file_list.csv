@@ -1,0 +1,7 @@
+speed,depth,filename
+norm,deep,resp_test_0023__LP10_noMRI_norm_deep.mat
+norm,norm,resp_test_0024__LP10_noMRI_norm_norm.mat
+norm,shal,resp_test_0025__LP10_noMRI_norm_shal.mat
+slow,deep,resp_test_0026__LP10_noMRI_slow_deep.mat
+slow,norm,resp_test_0027__LP10_noMRI_slow_norm.mat
+slow,shal,resp_test_0028__LP10_noMRI_slow_shal.mat

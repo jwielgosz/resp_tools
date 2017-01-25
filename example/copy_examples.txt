@@ -1,0 +1,17 @@
+mkdir -p /home/wielgosz/resp_tools/example/biopac/data_check
+mkdir -p /home/wielgosz/resp_tools/example/biopac/data_check/plots/png
+mkdir -p /home/wielgosz/resp_tools/example/biopac/resp_stats
+
+cp -f /study/NCCAM/Data/PhysioQualityCheck/resp_test_2014-06-23/resp_test_0023__LP10_noMRI_norm_deep.mat /home/wielgosz/resp_tools/example/biopac/
+cp -f /study/NCCAM/Data/PhysioQualityCheck/resp_test_2014-06-23/resp_test_0024__LP10_noMRI_norm_norm.mat /home/wielgosz/resp_tools/example/biopac/
+cp -f /study/NCCAM/Data/PhysioQualityCheck/resp_test_2014-06-23/resp_test_0025__LP10_noMRI_norm_shal.mat /home/wielgosz/resp_tools/example/biopac/
+cp -f /study/NCCAM/Data/PhysioQualityCheck/resp_test_2014-06-23/resp_test_0026__LP10_noMRI_slow_deep.mat /home/wielgosz/resp_tools/example/biopac/
+cp -f /study/NCCAM/Data/PhysioQualityCheck/resp_test_2014-06-23/resp_test_0027__LP10_noMRI_slow_norm.mat /home/wielgosz/resp_tools/example/biopac/
+cp -f /study/NCCAM/Data/PhysioQualityCheck/resp_test_2014-06-23/resp_test_0028__LP10_noMRI_slow_shal.mat /home/wielgosz/resp_tools/example/biopac/
+
+cp -f /study/NCCAM/Data/PhysioQualityCheck/resp_test_2014-06-23/raw-data/resp_test_0023.acq /home/wielgosz/resp_tools/example/biopac/
+cp -f /study/NCCAM/Data/PhysioQualityCheck/resp_test_2014-06-23/raw-data/resp_test_0024.acq /home/wielgosz/resp_tools/example/biopac/
+cp -f /study/NCCAM/Data/PhysioQualityCheck/resp_test_2014-06-23/raw-data/resp_test_0025.acq /home/wielgosz/resp_tools/example/biopac/
+cp -f /study/NCCAM/Data/PhysioQualityCheck/resp_test_2014-06-23/raw-data/resp_test_0026.acq /home/wielgosz/resp_tools/example/biopac/
+cp -f /study/NCCAM/Data/PhysioQualityCheck/resp_test_2014-06-23/raw-data/resp_test_0027.acq /home/wielgosz/resp_tools/example/biopac/
+cp -f /study/NCCAM/Data/PhysioQualityCheck/resp_test_2014-06-23/raw-data/resp_test_0028.acq /home/wielgosz/resp_tools/example/biopac/
